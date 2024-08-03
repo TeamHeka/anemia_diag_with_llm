@@ -1,0 +1,251 @@
+,y_actual,y_pred
+0,hemolytic anemia,iron deficiency anemia
+1,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+2,iron deficiency anemia,iron deficiency anemia
+3,no anemia,no anemia
+4,inconclusive diagnosis,vitamin b12/folate deficiency anemia
+5,hemolytic anemia,anemia of chronic disease
+6,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+7,hemolytic anemia,no anemia
+8,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+9,no anemia,hemolytic anemia
+10,iron deficiency anemia,iron deficiency anemia
+11,unspecified anemia,vitamin b12/folate deficiency anemia
+12,unspecified anemia,vitamin b12/folate deficiency anemia
+13,anemia of chronic disease,anemia of chronic disease
+14,hemolytic anemia,anemia of chronic disease
+15,aplastic anemia,iron deficiency anemia
+16,anemia of chronic disease,iron deficiency anemia
+17,no anemia,no anemia
+18,iron deficiency anemia,iron deficiency anemia
+19,anemia of chronic disease,no anemia
+20,anemia of chronic disease,anemia of chronic disease
+21,no anemia,no anemia
+22,aplastic anemia,anemia of chronic disease
+23,hemolytic anemia,anemia of chronic disease
+24,hemolytic anemia,anemia of chronic disease
+25,iron deficiency anemia,iron deficiency anemia
+26,aplastic anemia,iron deficiency anemia
+27,iron deficiency anemia,iron deficiency anemia
+28,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+29,anemia of chronic disease,iron deficiency anemia
+30,inconclusive diagnosis,iron deficiency anemia
+31,iron deficiency anemia,iron deficiency anemia
+32,no anemia,no anemia
+33,no anemia,iron deficiency anemia
+34,vitamin b12/folate deficiency anemia,iron deficiency anemia
+35,inconclusive diagnosis,vitamin b12/folate deficiency anemia
+36,hemolytic anemia,hemolytic anemia
+37,anemia of chronic disease,iron deficiency anemia
+38,inconclusive diagnosis,iron deficiency anemia
+39,unspecified anemia,vitamin b12/folate deficiency anemia
+40,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+41,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+42,anemia of chronic disease,no anemia
+43,iron deficiency anemia,iron deficiency anemia
+44,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+45,inconclusive diagnosis,vitamin b12/folate deficiency anemia
+46,no anemia,iron deficiency anemia
+47,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+48,aplastic anemia,iron deficiency anemia
+49,hemolytic anemia,vitamin b12/folate deficiency anemia
+50,hemolytic anemia,iron deficiency anemia
+51,anemia of chronic disease,iron deficiency anemia
+52,no anemia,hemolytic anemia
+53,aplastic anemia,anemia of chronic disease
+54,iron deficiency anemia,iron deficiency anemia
+55,iron deficiency anemia,iron deficiency anemia
+56,iron deficiency anemia,iron deficiency anemia
+57,aplastic anemia,vitamin b12/folate deficiency anemia
+58,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+59,iron deficiency anemia,iron deficiency anemia
+60,hemolytic anemia,anemia of chronic disease
+61,unspecified anemia,vitamin b12/folate deficiency anemia
+62,no anemia,iron deficiency anemia
+63,iron deficiency anemia,iron deficiency anemia
+64,unspecified anemia,vitamin b12/folate deficiency anemia
+65,anemia of chronic disease,iron deficiency anemia
+66,hemolytic anemia,hemolytic anemia
+67,unspecified anemia,vitamin b12/folate deficiency anemia
+68,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+69,anemia of chronic disease,iron deficiency anemia
+70,iron deficiency anemia,iron deficiency anemia
+71,anemia of chronic disease,anemia of chronic disease
+72,hemolytic anemia,iron deficiency anemia
+73,hemolytic anemia,anemia of chronic disease
+74,no anemia,no anemia
+75,anemia of chronic disease,anemia of chronic disease
+76,no anemia,vitamin b12/folate deficiency anemia
+77,aplastic anemia,iron deficiency anemia
+78,aplastic anemia,anemia of chronic disease
+79,inconclusive diagnosis,iron deficiency anemia
+80,hemolytic anemia,anemia of chronic disease
+81,iron deficiency anemia,iron deficiency anemia
+82,no anemia,iron deficiency anemia
+83,no anemia,no anemia
+84,aplastic anemia,vitamin b12/folate deficiency anemia
+85,unspecified anemia,vitamin b12/folate deficiency anemia
+86,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+87,aplastic anemia,iron deficiency anemia
+88,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+89,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+90,hemolytic anemia,hemolytic anemia
+91,unspecified anemia,vitamin b12/folate deficiency anemia
+92,aplastic anemia,anemia of chronic disease
+93,hemolytic anemia,anemia of chronic disease
+94,anemia of chronic disease,anemia of chronic disease
+95,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+96,anemia of chronic disease,iron deficiency anemia
+97,aplastic anemia,iron deficiency anemia
+98,aplastic anemia,anemia of chronic disease
+99,unspecified anemia,vitamin b12/folate deficiency anemia
+100,unspecified anemia,vitamin b12/folate deficiency anemia
+101,anemia of chronic disease,iron deficiency anemia
+102,hemolytic anemia,hemolytic anemia
+103,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+104,unspecified anemia,vitamin b12/folate deficiency anemia
+105,anemia of chronic disease,anemia of chronic disease
+106,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+107,vitamin b12/folate deficiency anemia,anemia of chronic disease
+108,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+109,no anemia,iron deficiency anemia
+110,aplastic anemia,anemia of chronic disease
+111,aplastic anemia,anemia of chronic disease
+112,hemolytic anemia,anemia of chronic disease
+113,iron deficiency anemia,iron deficiency anemia
+114,hemolytic anemia,anemia of chronic disease
+115,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+116,unspecified anemia,vitamin b12/folate deficiency anemia
+117,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+118,inconclusive diagnosis,iron deficiency anemia
+119,unspecified anemia,vitamin b12/folate deficiency anemia
+120,unspecified anemia,vitamin b12/folate deficiency anemia
+121,unspecified anemia,vitamin b12/folate deficiency anemia
+122,anemia of chronic disease,anemia of chronic disease
+123,iron deficiency anemia,iron deficiency anemia
+124,inconclusive diagnosis,vitamin b12/folate deficiency anemia
+125,iron deficiency anemia,iron deficiency anemia
+126,hemolytic anemia,anemia of chronic disease
+127,aplastic anemia,no anemia
+128,inconclusive diagnosis,iron deficiency anemia
+129,unspecified anemia,vitamin b12/folate deficiency anemia
+130,no anemia,hemolytic anemia
+131,unspecified anemia,vitamin b12/folate deficiency anemia
+132,iron deficiency anemia,iron deficiency anemia
+133,anemia of chronic disease,iron deficiency anemia
+134,hemolytic anemia,anemia of chronic disease
+135,iron deficiency anemia,iron deficiency anemia
+136,hemolytic anemia,hemolytic anemia
+137,unspecified anemia,vitamin b12/folate deficiency anemia
+138,iron deficiency anemia,iron deficiency anemia
+139,anemia of chronic disease,iron deficiency anemia
+140,inconclusive diagnosis,iron deficiency anemia
+141,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+142,aplastic anemia,iron deficiency anemia
+143,unspecified anemia,vitamin b12/folate deficiency anemia
+144,unspecified anemia,vitamin b12/folate deficiency anemia
+145,vitamin b12/folate deficiency anemia,anemia of chronic disease
+146,iron deficiency anemia,iron deficiency anemia
+147,aplastic anemia,iron deficiency anemia
+148,unspecified anemia,anemia of chronic disease
+149,unspecified anemia,vitamin b12/folate deficiency anemia
+150,iron deficiency anemia,iron deficiency anemia
+151,unspecified anemia,vitamin b12/folate deficiency anemia
+152,aplastic anemia,anemia of chronic disease
+153,inconclusive diagnosis,iron deficiency anemia
+154,aplastic anemia,anemia of chronic disease
+155,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+156,anemia of chronic disease,iron deficiency anemia
+157,aplastic anemia,anemia of chronic disease
+158,aplastic anemia,iron deficiency anemia
+159,no anemia,no anemia
+160,iron deficiency anemia,iron deficiency anemia
+161,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+162,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+163,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+164,iron deficiency anemia,iron deficiency anemia
+165,anemia of chronic disease,anemia of chronic disease
+166,aplastic anemia,iron deficiency anemia
+167,iron deficiency anemia,iron deficiency anemia
+168,unspecified anemia,vitamin b12/folate deficiency anemia
+169,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+170,aplastic anemia,anemia of chronic disease
+171,no anemia,no anemia
+172,aplastic anemia,anemia of chronic disease
+173,hemolytic anemia,hemolytic anemia
+174,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+175,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+176,hemolytic anemia,iron deficiency anemia
+177,no anemia,hemolytic anemia
+178,hemolytic anemia,anemia of chronic disease
+179,unspecified anemia,vitamin b12/folate deficiency anemia
+180,no anemia,no anemia
+181,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+182,iron deficiency anemia,iron deficiency anemia
+183,aplastic anemia,iron deficiency anemia
+184,anemia of chronic disease,anemia of chronic disease
+185,iron deficiency anemia,iron deficiency anemia
+186,anemia of chronic disease,iron deficiency anemia
+187,iron deficiency anemia,iron deficiency anemia
+188,no anemia,no anemia
+189,inconclusive diagnosis,iron deficiency anemia
+190,no anemia,no anemia
+191,inconclusive diagnosis,iron deficiency anemia
+192,unspecified anemia,vitamin b12/folate deficiency anemia
+193,hemolytic anemia,hemolytic anemia
+194,hemolytic anemia,no anemia
+195,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+196,no anemia,no anemia
+197,inconclusive diagnosis,iron deficiency anemia
+198,unspecified anemia,vitamin b12/folate deficiency anemia
+199,anemia of chronic disease,anemia of chronic disease
+200,anemia of chronic disease,iron deficiency anemia
+201,hemolytic anemia,anemia of chronic disease
+202,inconclusive diagnosis,iron deficiency anemia
+203,anemia of chronic disease,iron deficiency anemia
+204,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+205,no anemia,no anemia
+206,anemia of chronic disease,iron deficiency anemia
+207,anemia of chronic disease,iron deficiency anemia
+208,iron deficiency anemia,iron deficiency anemia
+209,unspecified anemia,vitamin b12/folate deficiency anemia
+210,hemolytic anemia,anemia of chronic disease
+211,aplastic anemia,iron deficiency anemia
+212,aplastic anemia,anemia of chronic disease
+213,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+214,hemolytic anemia,anemia of chronic disease
+215,hemolytic anemia,anemia of chronic disease
+216,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+217,aplastic anemia,iron deficiency anemia
+218,hemolytic anemia,vitamin b12/folate deficiency anemia
+219,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+220,anemia of chronic disease,iron deficiency anemia
+221,inconclusive diagnosis,iron deficiency anemia
+222,vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia
+223,aplastic anemia,iron deficiency anemia
+224,iron deficiency anemia,iron deficiency anemia
+225,inconclusive diagnosis,iron deficiency anemia
+226,unspecified anemia,iron deficiency anemia
+227,hemolytic anemia,vitamin b12/folate deficiency anemia
+228,no anemia,no anemia
+229,anemia of chronic disease,anemia of chronic disease
+230,hemolytic anemia,hemolytic anemia
+231,hemolytic anemia,anemia of chronic disease
+232,anemia of chronic disease,iron deficiency anemia
+233,no anemia,vitamin b12/folate deficiency anemia
+234,aplastic anemia,anemia of chronic disease
+235,hemolytic anemia,anemia of chronic disease
+236,unspecified anemia,vitamin b12/folate deficiency anemia
+237,hemolytic anemia,hemolytic anemia
+238,inconclusive diagnosis,iron deficiency anemia
+239,aplastic anemia,iron deficiency anemia
+240,no anemia,iron deficiency anemia
+241,hemolytic anemia,iron deficiency anemia
+242,hemolytic anemia,no anemia
+243,no anemia,no anemia
+244,no anemia,no anemia
+245,aplastic anemia,vitamin b12/folate deficiency anemia
+246,anemia of chronic disease,iron deficiency anemia
+247,hemolytic anemia,anemia of chronic disease
+248,anemia of chronic disease,iron deficiency anemia
+249,aplastic anemia,anemia of chronic disease

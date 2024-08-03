@@ -1,0 +1,1596 @@
+y_actual,y_pred,pathway
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 7.12 g/dL  
+Mean Corpuscular Volume: 95.9 fL  
+Reticulocyte Count: 3.78%
+
+Final Diagnosis: Hemolytic anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 8.13 g/dL  
+Mean Corpuscular Volume: 104.06 fL  
+Segmented Neutrophils: 1.19  
+
+Vitamin B12/Folate deficiency anemia"
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.31 g/dL, which is less than 13 g/dL. Therefore, we proceed to further analysis.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 76.4 fL, which is less than 80 fL. This directs us to consider iron-related issues.
+
+3. **Ferritin Value**: The ferritin level is 38.32 ng/mL. Since this value is between 30 ng/mL and 100 ng/mL, we proceed to check the total iron binding capacity (TIBC).
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 455.08 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results, the final diagnosis is **Iron deficiency anemia**."
+no anemia,no anemia,No anemia
+inconclusive diagnosis,inconclusive diagnosis,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.46 g/dL. Since this value is less than 13 g/dL, I proceed to the next step.
+
+2. **Gender Consideration**: The patient is female. Since the hemoglobin value is less than 12 g/dL, I need to further investigate.
+
+3. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 104.29 fL, which is greater than 100 fL. This directs me to consider the segmented neutrophils.
+
+4. **Segmented Neutrophils**: Unfortunately, the segmented neutrophils value is not provided in the results.
+
+Since the segmented neutrophils results are unavailable, the diagnosis is **Inconclusive diagnosis**."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 11.59 g/dL  
+Mean Corpuscular Volume: 86.71 fL  
+Reticulocyte Count: 4.9%  
+
+Final Diagnosis: Hemolytic anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"1. Hemoglobin: 10.3 g/dL - Indicates potential anemia as it is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 101.49 fL - This value is greater than 100fL.
+3. Segmented Neutrophils: 2.77 - Since the value is greater than 0, the diagnosis is Vitamin B12/Folate deficiency anemia.
+
+Final diagnosis: Vitamin B12/Folate deficiency anemia."
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 12.99 g/dL
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I need to consider the gender of the patient.
+
+2. Gender: Male
+   - For a male patient with a hemoglobin value between 12 g/dL and 13 g/dL, I proceed to the next step.
+
+3. Mean Corpuscular Volume (MCV): 88.88 fL
+   - The MCV is between 80 fL and 100 fL, so I look at the reticulocyte count.
+
+4. Reticulocyte Count: 2.8%
+   - Since the reticulocyte count is greater than 2%, the diagnosis is Hemolytic anemia.
+
+Final Diagnosis: Hemolytic anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the patient's gender, here is the pathway for the final diagnosis:
+
+1. Hemoglobin value: 10.61 g/dL - Since the hemoglobin value is less than 13 g/dL, we proceed to the next step.
+2. Mean Corpuscular Volume (MCV): 100.99 fL - Since the MCV is greater than 100fL, we proceed to check the segmented neutrophils.
+3. Segmented Neutrophils: 5.44 - Since the segmented neutrophils value is greater than 0, the diagnosis is Vitamin B12/Folate deficiency anemia.
+
+Final Diagnosis: Vitamin B12/Folate deficiency anemia"
+no anemia,no anemia,"Based on the provided laboratory results and the gender of the patient, here is the pathway for the final diagnosis:
+
+1. Hemoglobin value: 12.49 g/dL
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, we need to consider the gender of the patient.
+
+2. Gender: Female
+   - For a female patient with a hemoglobin value greater than 12 g/dL, the diagnosis is No anemia.
+
+Final diagnosis: No anemia"
+iron deficiency anemia,iron deficiency anemia,"Hemoglobin: 9.83 g/dL  
+Mean Corpuscular Volume: 77.83 fL  
+Ferritin: 11.76 ng/mL  
+
+Diagnosis: Iron deficiency anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 6.59 g/dL  
+Mean Corpuscular Volume: 100.03 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 7.39 g/dL  
+Mean Corpuscular Volume: 103.39 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and rules:
+
+1. Hemoglobin value: 7.25 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 78.15 fL, which is less than 80 fL.
+3. Ferritin value: 360.45 ng/mL.
+
+Since the MCV is less than 80 fL, and the ferritin value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 10.9 g/dL  
+Mean Corpuscular Volume: 98.85 fL  
+Reticulocyte Count: 3.57%
+
+Final Diagnosis: Hemolytic anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 11.46 g/dL  
+Gender: Female  
+Mean Corpuscular Volume: 89.18 fL  
+Reticulocyte Count: 0.95 %
+
+Diagnosis pathway:
+1. Hemoglobin value is 11.46 g/dL, which is less than 13 g/dL.
+2. Since the patient is female and hemoglobin is less than 12 g/dL, proceed to check the mean corpuscular volume.
+3. Mean corpuscular volume is 89.18 fL, which is between 80fL and 100fL.
+4. Check the reticulocyte count, which is 0.95%.
+5. Since the reticulocyte count is less or equal to 2%, the diagnosis is Aplastic anemia.
+
+Aplastic anemia"
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin: 12.47 g/dL - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, we consider the gender of the patient.
+2. Gender: Male - Since the patient is male and the hemoglobin value is not greater than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3. Mean Corpuscular Volume (MCV): 78.11 fL - The MCV is less than 80 fL, so we look at the ferritin value.
+4. Ferritin: 485.28 ng/mL - The ferritin value is greater than 100 ng/mL.
+
+Final diagnosis: Anemia of chronic disease."
+no anemia,no anemia,No anemia
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 7.3 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 76.14 fL, which is less than 80 fL.
+3. Ferritin value: 3.42 ng/mL, which is less than 30 ng/mL.
+
+Since the ferritin value is less than 30 ng/mL and the MCV is less than 80 fL, the diagnosis is Iron deficiency anemia."
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin: 12.87 g/dL - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, we need to consider the gender of the patient.
+2. Gender: Male - Since the patient is male and the hemoglobin value is not greater than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3. Mean Corpuscular Volume: 79.66 fL - The MCV is less than 80 fL, so we need to check the ferritin value.
+4. Ferritin: 301.42 ng/mL - The ferritin value is greater than 100 ng/mL.
+
+Final diagnosis: Anemia of chronic disease."
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin value: 6.74 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 75.61 fL - less than 80fL, indicating microcytic anemia.
+3. Ferritin value: 472.03 ng/mL - greater than 100ng/mL, indicating Anemia of chronic disease.
+
+Final diagnosis: Anemia of chronic disease."
+no anemia,no anemia,No anemia
+aplastic anemia,aplastic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 9.35 g/dL, which is less than 13 g/dL.
+2. The mean corpuscular volume (MCV) is 85.69 fL, which falls between 80fL and 100fL.
+3. Given the MCV is between 80fL and 100fL, we look at the reticulocyte count.
+4. The reticulocyte count is 0.25%, which is less than or equal to 2%.
+
+Therefore, the final diagnosis is Aplastic anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 8.25 g/dL  
+Mean Corpuscular Volume: 95.07 fL  
+Reticulocyte Count: 3.13%
+
+Diagnosis: Hemolytic anemia"
+hemolytic anemia,hemolytic anemia,"1. Hemoglobin value: 8.49 g/dL (less than 13 g/dL)
+2. Mean Corpuscular Volume (MCV): 94.4 fL (between 80fL and 100fL)
+3. Reticulocyte count: 2.65% (greater than 2%)
+
+Final diagnosis: Hemolytic anemia."
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.23 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 78.94 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin level is 58.32 ng/mL. Since this value is between 30 ng/mL and 100 ng/mL, the next step is to check the total iron binding capacity (TIBC).
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 466.0 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results:
+- Hemoglobin indicates potential anemia.
+- MCV suggests a microcytic anemia.
+- Ferritin within 30-100 ng/mL and a high TIBC (>450 mcg/dL) lead to the diagnosis of Iron deficiency anemia.
+
+Final Diagnosis: Iron deficiency anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 6.38 g/dL  
+Mean Corpuscular Volume: 89.43 fL  
+Reticulocyte Count: 1.48%
+
+Diagnosis: Aplastic anemia"
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 11.71 g/dL
+   - Since the hemoglobin value is less than 13 g/dL, I proceed to the next step.
+
+2. Mean Corpuscular Volume (MCV): 77.2 fL
+   - The MCV is less than 80 fL, so I proceed to check the ferritin value.
+
+3. Ferritin value: 54.42 ng/mL
+   - The ferritin value is between 30 ng/mL and 100 ng/mL. Therefore, I need to check the Total Iron Binding Capacity (TIBC).
+
+4. Total Iron Binding Capacity (TIBC): 485.11 mcg/dL
+   - The TIBC is greater than 450 mcg/dL.
+
+Based on these results, the final diagnosis is Iron deficiency anemia."
+vitamin b12/folate deficiency anemia,no anemia,No anemia
+anemia of chronic disease,anemia of chronic disease,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 10.74 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 78.45 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin value is 212.98 ng/mL. Since this value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease.
+
+Therefore, the final diagnosis for this patient is **Anemia of chronic disease**."
+inconclusive diagnosis,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 6.79 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 76.86 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value and possibly the total iron binding capacity (TIBC).
+
+3. **Total Iron Binding Capacity (TIBC)**: Since the ferritin value is not provided, I considered the TIBC, which is 477.99 mcg/dL. This value is greater than 450 mcg/dL.
+
+Given these results, the diagnosis for this patient is **Iron deficiency anemia**."
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 6.53 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 78.12 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin value is 34.58 ng/mL. Since this is between 30 ng/mL and 100 ng/mL, the next step is to check the total iron binding capacity (TIBC).
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 491.67 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results, the final diagnosis is **Iron deficiency anemia**."
+no anemia,no anemia,No anemia
+no anemia,no anemia,No anemia
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"1. Hemoglobin value: 8.36 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 100.38 fL - greater than 100fL.
+3. Segmented Neutrophils: 5.89 - greater than 0.
+
+Final diagnosis: Vitamin B12/Folate deficiency anemia."
+inconclusive diagnosis,inconclusive diagnosis,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and rules:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 9.09 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 103.7 fL, which is greater than 100 fL. According to the rules, this leads us to consider the segmented neutrophils value.
+
+3. **Segmented Neutrophils**: The value of segmented neutrophils is not provided in the information given. Therefore, according to the rules, if the segmented neutrophils results are unavailable, the diagnosis is Inconclusive diagnosis.
+
+Final Diagnosis: Inconclusive diagnosis."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 10.05 g/dL  
+Mean Corpuscular Volume: 82.45 fL  
+Reticulocyte Count: 5.65%
+
+Diagnosis: Hemolytic anemia"
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 9.26 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 75.02 fL, which is less than 80 fL. This directs us to further investigate the type of anemia based on ferritin levels.
+
+3. **Ferritin Value**: The ferritin level is 364.05 ng/mL. Since this value is greater than 100 ng/mL, the diagnosis is **Anemia of chronic disease**.
+
+Final Diagnosis: **Anemia of chronic disease**."
+inconclusive diagnosis,iron deficiency anemia,"Hemoglobin: 9.32 g/dL  
+Mean Corpuscular Volume: 79.76 fL  
+Ferritin: Not provided  
+Total Iron Binding Capacity: 400.54 mcg/dL  
+
+Diagnosis: Iron deficiency anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 10.67 g/dL  
+Mean Corpuscular Volume: 101.09 fL  
+Segmented Neutrophils: 0.0  
+
+Final Diagnosis: Unspecified anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 12.94 g/dL  
+Mean Corpuscular Volume: 101.8 fL  
+Segmented Neutrophils: 6.14  
+
+Final Diagnosis: Vitamin B12/Folate deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 10.62 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 101.84 fL, which is greater than 100fL.
+3. Segmented Neutrophils: 6.47, which is greater than 0.
+
+Based on these results:
+- The hemoglobin value indicates the patient may have anemia.
+- The MCV value being greater than 100fL directs us to consider Vitamin B12/Folate deficiency anemia.
+- The segmented neutrophils value being greater than 0 confirms the diagnosis of Vitamin B12/Folate deficiency anemia.
+
+Final diagnosis: Vitamin B12/Folate deficiency anemia."
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 12.1 g/dL  
+Mean Corpuscular Volume: 78.48 fL  
+Ferritin: 120.72 ng/mL  
+
+Diagnosis: Anemia of chronic disease."
+iron deficiency anemia,iron deficiency anemia,"1. Hemoglobin: 9.35 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 79.08 fL - less than 80fL, indicates microcytic anemia.
+3. Ferritin: 49.79 ng/mL - between 30ng/ml and 100ng/ml.
+4. Total Iron Binding Capacity (TIBC): 455.18 mcg/dL - greater than 450mcg/dL.
+
+Final Diagnosis: Iron deficiency anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 12.76 g/dL.
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I proceed to check the gender of the patient.
+
+2. **Gender**: The patient is male.
+   - Since the patient is male and the hemoglobin value is between 12 g/dL and 13 g/dL, I need to further investigate.
+
+3. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 101.03 fL.
+   - Since the MCV is greater than 100 fL, I proceed to check the value of segmented neutrophils.
+
+4. **Segmented Neutrophils**: The patient's segmented neutrophils value is 2.27.
+   - Since the segmented neutrophils value is greater than 0, the diagnosis is Vitamin B12/Folate deficiency anemia.
+
+Based on these considerations, the final diagnosis is **Vitamin B12/Folate deficiency anemia**."
+inconclusive diagnosis,inconclusive diagnosis,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 8.68 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 103.3 fL, which is greater than 100 fL. This directs us to consider macrocytic anemia.
+
+3. **Segmented Neutrophils**: Since the value for segmented neutrophils is not provided, and it is crucial for further classification in this scenario, the diagnosis is **Inconclusive diagnosis**."
+no anemia,no anemia,"Based on the provided information and following the diagnostic rules:
+
+1) The hemoglobin value is 12.2 g/dL.
+2) Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, we consider the gender of the patient.
+3) The patient is female and her hemoglobin value is greater than 12 g/dL.
+
+Final diagnosis: No anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.53 g/dL  
+Mean Corpuscular Volume: 103.91 fL  
+Segmented Neutrophils: 4.57  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+aplastic anemia,aplastic anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 9.19 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 96.51 fL, which is between 80fL and 100fL.
+3. Reticulocyte count: 0.77%, which is less than or equal to 2%.
+
+Based on these findings, the diagnosis is Aplastic anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 6.47 g/dL  
+Mean Corpuscular Volume: 99.03 fL  
+Reticulocyte Count: 3.37%
+
+Diagnosis: Hemolytic anemia"
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 8.47 g/dL  
+Mean Corpuscular Volume: 80.89 fL  
+Reticulocyte Count: 5.08 %
+
+Final Diagnosis: Hemolytic anemia"
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 9.61 g/dL  
+Mean Corpuscular Volume: 76.04 fL  
+Ferritin: 362.29 ng/mL  
+
+Diagnosis: Anemia of chronic disease"
+no anemia,no anemia,"Hemoglobin: 13.18 g/dL
+
+Since the hemoglobin value is greater than 13 g/dL, the diagnosis is No anemia."
+aplastic anemia,aplastic anemia,"Hemoglobin: 8.73 g/dL  
+Mean Corpuscular Volume: 94.13 fL  
+Reticulocyte Count: 0.24 %
+
+Diagnosis: Aplastic anemia"
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 9.08 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 75.21 fL, which is less than 80 fL.
+3. Ferritin value: 5.73 ng/mL, which is less than 30 ng/mL.
+4. Total Iron Binding Capacity (TIBC): 461.69 mcg/dL, which is greater than 450 mcg/dL.
+
+Given these results, the final diagnosis is Iron deficiency anemia."
+iron deficiency anemia,no anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.97 g/dL. Since this value is greater than 12 g/dL but less than 13 g/dL, I proceed to consider the patient's gender.
+
+2. **Gender**: The patient is female. Since her hemoglobin value is greater than 12 g/dL, the diagnosis is **No anemia**.
+
+Final Diagnosis: **No anemia**"
+iron deficiency anemia,iron deficiency anemia,"Hemoglobin: 6.92 g/dL  
+Mean Corpuscular Volume: 79.29 fL  
+Ferritin: 87.26 ng/mL  
+Total Iron Binding Capacity: 462.12 mcg/dL  
+
+Diagnosis: Iron deficiency anemia"
+aplastic anemia,no anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.87 g/dL. Since this value is less than 13 g/dL, we proceed to further analysis.
+
+2. **Gender Consideration**: The patient is female. Since the hemoglobin value is less than 12 g/dL, we do not conclude ""No anemia"" based on gender alone and proceed to the next step.
+
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 96.61 fL. This value falls between 80fL and 100fL, so we proceed to case d.
+
+4. **Reticulocyte Count**: The reticulocyte count is 0.11%. Since this value is less than or equal to 2%, the diagnosis is Aplastic anemia.
+
+The final diagnosis for this patient is **Aplastic anemia**."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 8.86 g/dL  
+Mean Corpuscular Volume: 102.23 fL  
+Segmented Neutrophils: 4.41  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 12.46 g/dL.
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I need to consider the gender of the patient.
+
+2. **Gender**: The patient is male.
+   - Since the patient is male and the hemoglobin value is between 12 g/dL and 13 g/dL, I proceed to check the mean corpuscular volume (MCV).
+
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 77.0 fL.
+   - The MCV is less than 80 fL, indicating a potential microcytic anemia. Therefore, I need to check the ferritin level.
+
+4. **Ferritin**: The ferritin level is 16.0 ng/mL.
+   - Since the ferritin value is less than 30 ng/mL, this indicates Iron deficiency anemia.
+
+Based on these findings, the final diagnosis for this patient is **Iron deficiency anemia**."
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.81 g/dL. Since this value is less than 13 g/dL but greater than 12 g/dL, I next consider the patient's gender.
+2. **Gender**: The patient is male. Since the hemoglobin value is not greater than 13 g/dL for males, I proceed to check the mean corpuscular volume (MCV).
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 82.17 fL, which falls between 80fL and 100fL. This leads me to check the reticulocyte count.
+4. **Reticulocyte Count**: The reticulocyte count is 5.35%. Since this value is greater than 2%, the diagnosis is Hemolytic anemia.
+
+**Final Diagnosis**: Hemolytic anemia."
+unspecified anemia,unspecified anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 10.68 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 102.34 fL, which is greater than 100fL.
+3. Segmented neutrophils value is 0.0.
+
+Following the diagnostic pathway:
+- Since the MCV is greater than 100fL and the segmented neutrophils value is equal to 0, the diagnosis is Unspecified anemia."
+no anemia,no anemia,No anemia
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.04 g/dL, which is less than 13 g/dL.
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 79.44 fL, which is less than 80 fL.
+3. **Ferritin Value**: The ferritin level is 10.41 ng/mL, which is less than 30 ng/mL.
+
+Given these results, the diagnosis is **Iron deficiency anemia**."
+unspecified anemia,unspecified anemia,"Hemoglobin: 6.43 g/dL  
+Mean Corpuscular Volume: 104.66 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.85 g/dL.
+2. **Gender Consideration**: Since the patient is female and the hemoglobin value is greater than 12 g/dL, the next step is not applicable here as the hemoglobin is less than 12 g/dL.
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 78.44 fL, which is less than 80 fL.
+4. **Ferritin Value**: The ferritin level is 48.61 ng/mL.
+   - Since the ferritin value is between 30 ng/mL and 100 ng/mL, the next step is to check the total iron binding capacity (TIBC).
+5. **Total Iron Binding Capacity (TIBC)**: The TIBC is 276.45 mcg/dL, which is less than 450 mcg/dL.
+
+Based on these results:
+- Hemoglobin is less than 13 g/dL.
+- MCV is less than 80 fL.
+- Ferritin is between 30 ng/mL and 100 ng/mL.
+- TIBC is less than 450 mcg/dL.
+
+The final diagnosis is **Anemia of chronic disease**."
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 10.67 g/dL
+   - Since the hemoglobin value is less than 13 g/dL, I proceeded to the next step.
+
+2. Mean Corpuscular Volume (MCV): 87.68 fL
+   - The MCV is between 80fL and 100fL, so I proceeded to check the reticulocyte count.
+
+3. Reticulocyte count: 5.99%
+   - Since the reticulocyte count is greater than 2%, the diagnosis is Hemolytic anemia.
+
+Final Diagnosis: Hemolytic anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 8.34 g/dL  
+Mean Corpuscular Volume: 101.17 fL  
+Segmented Neutrophils: 0.0  
+
+Final Diagnosis: Unspecified anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 9.43 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 101.86 fL, which is greater than 100fL.
+3. Segmented neutrophils value is 3.77, which is greater than 0.
+
+Therefore, the diagnosis is Vitamin B12/Folate deficiency anemia."
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin: 6.28 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 76.98 fL - less than 80fL, indicates microcytic anemia.
+3. Ferritin: 115.48 ng/mL - greater than 100ng/mL, diagnosis is Anemia of chronic disease.
+
+Anemia of chronic disease."
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 12.49 g/dL
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I considered the gender of the patient.
+
+2. Gender: Male
+   - For a male patient with a hemoglobin value between 12 g/dL and 13 g/dL, I proceeded to check the mean corpuscular volume (MCV).
+
+3. Mean Corpuscular Volume (MCV): 78.84 fL
+   - The MCV is less than 80 fL, so I checked the ferritin value next.
+
+4. Ferritin: 6.25 ng/mL
+   - The ferritin value is less than 30 ng/mL, indicating Iron deficiency anemia.
+
+Therefore, the final diagnosis is Iron deficiency anemia."
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 9.64 g/dL  
+Mean Corpuscular Volume: 76.97 fL  
+Ferritin: 444.15 ng/mL  
+
+Diagnosis: Anemia of chronic disease."
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 8.03 g/dL  
+Mean Corpuscular Volume: 89.5 fL  
+Reticulocyte Count: 5.55 %
+
+Diagnosis: Hemolytic anemia"
+no anemia,no anemia,No anemia
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, we follow the outlined steps:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.05 g/dL, which is less than 13 g/dL. Therefore, we proceed to the next steps.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 77.7 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin level is 470.41 ng/mL. Since this value is greater than 100 ng/mL, the diagnosis is **Anemia of chronic disease**.
+
+Final Diagnosis: Anemia of chronic disease"
+no anemia,no anemia,No anemia
+aplastic anemia,aplastic anemia,"Hemoglobin: 9.36 g/dL  
+Mean Corpuscular Volume: 98.12 fL  
+Reticulocyte Count: 0.97%
+
+Diagnosis: Aplastic anemia"
+aplastic anemia,aplastic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 9.32 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV) is 86.57 fL, which falls between 80fL and 100fL (case d).
+3. Reticulocyte count is 0.98%, which is less than or equal to 2%.
+
+Final diagnosis: Aplastic anemia."
+inconclusive diagnosis,inconclusive diagnosis,"1. Hemoglobin: 8.99 g/dL - Since the hemoglobin value is less than 13 g/dL, we proceed to the next step.
+2. Mean Corpuscular Volume (MCV): 75.91 fL - Since the MCV is less than 80 fL, we proceed to check the ferritin value.
+3. Ferritin: 68.95 ng/mL - Since the ferritin value is between 30 ng/mL and 100 ng/mL, we proceed to check the Total Iron Binding Capacity (TIBC), but TIBC is not provided in the results.
+   
+Diagnosis: Inconclusive diagnosis."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 6.5 g/dL  
+Mean Corpuscular Volume: 92.17 fL  
+Reticulocyte Count: 2.54%
+
+Final Diagnosis: Hemolytic anemia."
+iron deficiency anemia,iron deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 9.06 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 77.22 fL, which is less than 80 fL.
+3. Ferritin value is 16.37 ng/mL, which is less than 30 ng/mL.
+
+The diagnosis is Iron deficiency anemia."
+no anemia,no anemia,No anemia
+no anemia,no anemia,No anemia
+aplastic anemia,aplastic anemia,"Hemoglobin: 6.95 g/dL  
+Mean Corpuscular Volume: 99.53 fL  
+Reticulocyte Count: 1.25%
+
+Diagnosis: Aplastic anemia"
+unspecified anemia,unspecified anemia,Diagnosis: Unspecified anemia
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.85 g/dL  
+Mean Corpuscular Volume: 100.36 fL  
+Segmented Neutrophils: 3.65  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 7.54 g/dL  
+Mean Corpuscular Volume: 84.24 fL  
+Reticulocyte Count: 0.65 %
+
+Diagnosis: Aplastic anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 12.35 g/dL  
+Gender: Male  
+Mean Corpuscular Volume: 101.04 fL  
+Segmented Neutrophils: 5.92  
+
+Diagnosis pathway:
+1. Hemoglobin value is 12.35 g/dL, which is greater than 12 g/dL but less than 13 g/dL.
+2. Since the patient is male, we proceed to check the mean corpuscular volume.
+3. Mean corpuscular volume is 101.04 fL, which is greater than 100fL.
+4. Check segmented neutrophils, which is 5.92 (greater than 0).
+
+Final Diagnosis: Vitamin B12/Folate deficiency anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1) Hemoglobin value is 10.16 g/dL, which is less than 13 g/dL.
+2) Mean corpuscular volume (MCV) is 104.29 fL, which is greater than 100fL.
+3) Segmented neutrophils value is 0.42, which is greater than 0.
+
+Therefore, the diagnosis is Vitamin B12/Folate deficiency anemia."
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+unspecified anemia,unspecified anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 8.42 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 104.36 fL, which is greater than 100 fL.
+3. Segmented neutrophils value is 0.0.
+
+Since the MCV is greater than 100 fL and the segmented neutrophils value is equal to 0, the diagnosis is Unspecified anemia."
+aplastic anemia,aplastic anemia,"Hemoglobin: 9.2 g/dL  
+Mean Corpuscular Volume: 81.01 fL  
+Reticulocyte Count: 0.4 %
+
+Diagnosis: Aplastic anemia"
+hemolytic anemia,hemolytic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 8.91 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV) is 82.89 fL, which is between 80fL and 100fL.
+3. Reticulocyte count is 5.89%, which is greater than 2%.
+
+The diagnosis is Hemolytic anemia."
+anemia of chronic disease,no anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.9 g/dL. Since this value is less than 13 g/dL but greater than 12 g/dL, I proceed to consider the patient's gender.
+2. **Gender Consideration**: The patient is female. Since the hemoglobin value for females greater than 12 g/dL is considered as no anemia, the diagnosis for this patient is:
+
+No anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.86 g/dL  
+Mean Corpuscular Volume: 102.26 fL  
+Segmented Neutrophils: 1.14  
+
+Final Diagnosis: Vitamin B12/Folate deficiency anemia"
+anemia of chronic disease,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin is 7.15 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 77.6 fL, which is less than 80 fL. This suggests a microcytic anemia.
+
+3. **Ferritin Value**: The ferritin level is 170.69 ng/mL. Since this is greater than 100 ng/mL, it suggests the possibility of anemia of chronic disease.
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 498.67 mcg/dL, which is greater than 450 mcg/dL. This typically indicates iron deficiency anemia.
+
+Given the conflicting indications from ferritin and TIBC, the diagnosis based on the rules provided is **Iron deficiency anemia** because the TIBC value, being higher than 450 mcg/dL, points more conclusively to iron deficiency anemia despite the high ferritin level."
+aplastic anemia,aplastic anemia,Aplastic anemia
+aplastic anemia,aplastic anemia,Aplastic anemia
+unspecified anemia,unspecified anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 10.68 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 104.14 fL, which is greater than 100fL.
+3. Segmented Neutrophils: 0.0.
+
+Since the MCV is greater than 100fL and the segmented neutrophils value is 0, the diagnosis is:
+
+Unspecified anemia."
+unspecified anemia,unspecified anemia,"Hemoglobin: 9.55 g/dL  
+Mean Corpuscular Volume: 102.52 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin value: 6.13 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 75.4 fL - less than 80 fL, indicating microcytic anemia.
+3. Ferritin value: 308.49 ng/mL - greater than 100 ng/mL.
+
+Final diagnosis: Anemia of chronic disease."
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 11.36 g/dL, which is less than 13 g/dL.
+2. Since the hemoglobin value is less than 13 g/dL, I checked the mean corpuscular volume (MCV), which is 99.54 fL.
+3. The MCV is between 80fL and 100fL.
+4. For MCV values between 80fL and 100fL, I checked the reticulocyte count, which is 5.8%.
+
+Since the reticulocyte count is greater than 2%, the diagnosis is Hemolytic anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"1. Hemoglobin: 7.02 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 104.57 fL - greater than 100fL.
+3. Segmented Neutrophils: 3.85 - greater than 0.
+
+Diagnosis: Vitamin B12/Folate deficiency anemia."
+unspecified anemia,unspecified anemia,"1. Hemoglobin: 6.03 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 104.62 fL - indicates macrocytic anemia.
+3. Segmented Neutrophils: 0.0 - diagnosis is Unspecified anemia.
+
+Final diagnosis: Unspecified anemia."
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 7.38 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 75.29 fL, which is less than 80 fL. This suggests a microcytic anemia.
+
+3. **Ferritin Value**: The ferritin value is 436.06 ng/mL. Since the ferritin value is greater than 100 ng/mL, this typically suggests Anemia of chronic disease.
+
+The final diagnosis for this patient is **Anemia of chronic disease**."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"1. Hemoglobin: 11.61 g/dL - Since the hemoglobin value is less than 13 g/dL, proceed to the next step.
+2. Gender: Male - Since the patient is male and the hemoglobin is less than 13 g/dL, proceed to check the mean corpuscular volume.
+3. Mean Corpuscular Volume: 104.39 fL - Since the mean corpuscular volume is greater than 100 fL, proceed to check the segmented neutrophils.
+4. Segmented Neutrophils: 5.93 - Since the segmented neutrophils value is greater than 0, the diagnosis is Vitamin B12/Folate deficiency anemia.
+
+Final Diagnosis: Vitamin B12/Folate deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 8.91 g/dL  
+Mean Corpuscular Volume: 101.65 fL  
+Segmented Neutrophils: 6.29  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 6.27 g/dL  
+Mean Corpuscular Volume: 104.12 fL  
+Segmented Neutrophils: 1.79  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+no anemia,no anemia,"Based on the provided laboratory results and the gender of the patient:
+
+1. Hemoglobin value: 12.82 g/dL
+2. Gender: Female
+
+According to the diagnostic rules:
+- If the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, and the patient is female, the diagnosis is No anemia.
+
+Final diagnosis: No anemia"
+aplastic anemia,aplastic anemia,"Based on the provided laboratory results and the patient's gender, here is the pathway for the final diagnosis:
+
+1. Hemoglobin value: 10.34 g/dL - Since the hemoglobin value is less than 13 g/dL, we proceed to the next step.
+2. Mean Corpuscular Volume (MCV): 84.16 fL - The MCV is between 80fL and 100fL, so we proceed to check the reticulocyte count.
+3. Reticulocyte count: 1.78% - Since the reticulocyte count is less than or equal to 2%, the diagnosis is Aplastic anemia.
+
+Final diagnosis: Aplastic anemia"
+aplastic anemia,aplastic anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.74 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 95.87 fL, which falls between 80fL and 100fL.
+
+3. **Reticulocyte Count**: Given the MCV is between 80fL and 100fL, I checked the reticulocyte count, which is 1.74%. This is less than or equal to 2%.
+
+Based on these findings, the final diagnosis is **Aplastic anemia**."
+hemolytic anemia,hemolytic anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.99 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 80.44 fL, which falls between 80fL and 100fL. This directs us to consider case d) in the diagnostic rules.
+
+3. **Reticulocyte Count**: The reticulocyte count is 3.17%, which is greater than 2%.
+
+Based on these findings, the final diagnosis is **Hemolytic anemia**."
+iron deficiency anemia,anemia of chronic disease,Anemia of chronic disease
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.51 g/dL  
+Mean Corpuscular Volume: 103.19 fL  
+Segmented Neutrophils: 1.96  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+unspecified anemia,unspecified anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 9.17 g/dL, which is less than 13 g/dL.
+2. The mean corpuscular volume (MCV) is 104.11 fL.
+   - Since MCV is greater than 100fL, we proceed to check the segmented neutrophils.
+3. Segmented neutrophils value is 0.0.
+   - According to the rules, if the segmented neutrophils value is equal to 0, the diagnosis is Unspecified anemia.
+
+Final diagnosis: Unspecified anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 9.17 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV) is 103.82 fL, which is greater than 100 fL.
+3. Segmented Neutrophils value is 5.73, which is greater than 0.
+
+According to the rules, if the MCV is greater than 100 fL and segmented neutrophils are greater than 0, the diagnosis is Vitamin B12/Folate deficiency anemia.
+
+Final diagnosis: Vitamin B12/Folate deficiency anemia"
+inconclusive diagnosis,inconclusive diagnosis,"1. Hemoglobin value: 12.43 g/dL
+2. Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, and the patient is male, we proceed to the next step.
+3. Mean Corpuscular Volume (MCV): 75.93 fL
+   - Since MCV is less than 80 fL, we proceed to check the ferritin value.
+4. Ferritin value: 37.61 ng/mL
+   - Since ferritin is between 30 ng/mL and 100 ng/mL, we proceed to check the Total Iron Binding Capacity (TIBC), but TIBC is not provided.
+   - Diagnosis is Inconclusive diagnosis due to the unavailability of TIBC results."
+unspecified anemia,unspecified anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1) Hemoglobin value is 7.67 g/dL, which is less than 13 g/dL.
+2) Since the hemoglobin value is less than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3) The mean corpuscular volume is 104.39 fL, which is greater than 100fL.
+4) With an MCV greater than 100fL, we check the value of segmented neutrophils.
+5) The segmented neutrophils value is 0.0.
+
+The final diagnosis is Unspecified anemia."
+unspecified anemia,unspecified anemia,"Hemoglobin: 9.23 g/dL  
+Mean Corpuscular Volume: 103.49 fL  
+Segmented Neutrophils: 0.0  
+
+Final Diagnosis: Unspecified anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 10.26 g/dL  
+Mean Corpuscular Volume: 101.62 fL  
+Segmented Neutrophils: 0.0  
+
+Final Diagnosis: Unspecified anemia"
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 7.07 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 78.92 fL, which is less than 80 fL. This directs me to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin value is 448.33 ng/mL. Since this value is greater than 100 ng/mL, the diagnosis is **Anemia of chronic disease**.
+
+The final diagnosis for this patient is Anemia of chronic disease."
+iron deficiency anemia,iron deficiency anemia,Iron deficiency anemia
+inconclusive diagnosis,inconclusive diagnosis,"Hemoglobin: 12.76 g/dL  
+Gender: Male  
+Mean Corpuscular Volume: 104.12 fL  
+Segmented Neutrophils: Unavailable  
+
+Diagnosis: Inconclusive diagnosis"
+iron deficiency anemia,iron deficiency anemia,"1. Hemoglobin value: 7.37 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 76.61 fL - less than 80 fL, indicating microcytic anemia.
+3. Ferritin value: 15.32 ng/mL - less than 30 ng/mL, indicating Iron deficiency anemia.
+
+Final diagnosis: Iron deficiency anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 11.31 g/dL  
+Mean Corpuscular Volume: 96.78 fL  
+Reticulocyte Count: 3.51 %
+
+Diagnosis: Hemolytic anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 12.09 g/dL  
+Gender: Male  
+Mean Corpuscular Volume: 92.69 fL  
+Reticulocyte Count: 1.84 %
+
+1. Hemoglobin value is 12.09 g/dL, which is greater than 12 g/dL but less than 13 g/dL.
+2. The patient is male, so we proceed to check the mean corpuscular volume.
+3. Mean corpuscular volume is 92.69 fL, which is between 80fL and 100fL.
+4. Reticulocyte count is 1.84%, which is less or equal to 2%.
+
+Final Diagnosis: Aplastic anemia"
+inconclusive diagnosis,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.01 g/dL. Since this value is less than 13 g/dL, I proceed to the next steps.
+
+2. **Gender**: The patient is male. Since the hemoglobin is less than 13 g/dL, I need to further investigate.
+
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 76.49 fL, which is less than 80 fL. This leads me to consider iron-related issues.
+
+4. **Ferritin**: The ferritin level is 49.09 ng/mL. Since this is between 30 ng/mL and 100 ng/mL, I need to check the total iron-binding capacity (TIBC) to make a further distinction. However, TIBC is not provided in the results.
+
+Since the TIBC result is unavailable and necessary for further differentiation between Iron deficiency anemia and Anemia of chronic disease under these circumstances, the diagnosis is:
+
+**Inconclusive diagnosis**"
+unspecified anemia,iron deficiency anemia,Iron deficiency anemia
+no anemia,no anemia,"1. Hemoglobin: 12.39 g/dL
+2. Gender: Female
+
+Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, and the patient is female, the diagnosis is:
+
+No anemia."
+unspecified anemia,unspecified anemia,"Hemoglobin: 7.93 g/dL  
+Mean Corpuscular Volume: 102.23 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 6.92 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 79.42 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin level is 82.28 ng/mL, which is between 30 ng/mL and 100 ng/mL. This requires checking the total iron binding capacity (TIBC).
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 462.92 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results, the final diagnosis is **Iron deficiency anemia**."
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 6.41 g/dL  
+Mean Corpuscular Volume: 79.81 fL  
+Ferritin: 229.01 ng/mL  
+Total Iron Binding Capacity: 289.75 mcg/dL  
+
+Diagnosis: Anemia of chronic disease."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 6.51 g/dL  
+Mean Corpuscular Volume: 96.94 fL  
+Reticulocyte Count: 3.39%
+
+Final Diagnosis: Hemolytic anemia"
+iron deficiency anemia,iron deficiency anemia,"Hemoglobin: 9.19 g/dL  
+Mean Corpuscular Volume: 76.58 fL  
+Ferritin: 97.51 ng/mL  
+Total Iron Binding Capacity: 460.93 mcg/dL  
+
+Diagnosis: Iron deficiency anemia"
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 11.02 g/dL  
+Mean Corpuscular Volume: 82.2 fL  
+Reticulocyte Count: 4.95 %
+
+Final Diagnosis: Hemolytic anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 7.25 g/dL  
+Mean Corpuscular Volume: 101.73 fL  
+Segmented Neutrophils: 0.0  
+
+Final Diagnosis: Unspecified anemia"
+iron deficiency anemia,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 8.55 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 79.74 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin value is 14.99 ng/mL, which is less than 30 ng/mL. This suggests iron deficiency anemia.
+
+The final diagnosis is **Iron deficiency anemia**."
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin value: 8.08 g/dL - indicates anemia.
+2. Mean corpuscular volume: 76.1 fL - less than 80fL, indicating a need to check ferritin.
+3. Ferritin value: 139.87 ng/mL - greater than 100ng/mL.
+
+Final diagnosis: Anemia of chronic disease."
+inconclusive diagnosis,inconclusive diagnosis,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 9.67 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 85.83 fL, which falls between 80fL and 100fL. This leads us to consider case d) in the diagnostic rules.
+
+3. **Reticulocyte Count**: The reticulocyte count is not provided in the information given. According to the rules, if the reticulocyte count results are unavailable, the diagnosis is Inconclusive diagnosis.
+
+Final Diagnosis: Inconclusive diagnosis."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.29 g/dL  
+Mean Corpuscular Volume: 102.16 fL  
+Segmented Neutrophils: 6.12  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 6.28 g/dL  
+Mean Corpuscular Volume: 87.5 fL  
+Reticulocyte Count: 1.18%
+
+Diagnosis: Aplastic anemia"
+unspecified anemia,unspecified anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1) Hemoglobin value is 9.85 g/dL, which is less than 13 g/dL.
+2) Since the hemoglobin value is less than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3) The mean corpuscular volume is 104.58 fL, which is greater than 100fL.
+4) Given that the MCV is greater than 100fL, we check the value of segmented neutrophils.
+5) The segmented neutrophils value is 0.0.
+
+According to the rules, if the segmented neutrophils value is equal to 0, the diagnosis is Unspecified anemia.
+
+Final diagnosis: Unspecified anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 10.2 g/dL  
+Mean Corpuscular Volume: 103.52 fL  
+Segmented Neutrophils: 0.0  
+
+Final Diagnosis: Unspecified anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.73 g/dL  
+Mean Corpuscular Volume: 104.02 fL  
+Segmented Neutrophils: 1.41  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+iron deficiency anemia,iron deficiency anemia,Iron deficiency anemia
+aplastic anemia,aplastic anemia,"Hemoglobin: 8.32 g/dL  
+Mean Corpuscular Volume: 81.6 fL  
+Reticulocyte Count: 1.09%
+
+Diagnosis: Aplastic anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 6.73 g/dL  
+Mean Corpuscular Volume: 103.22 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 10.36 g/dL  
+Mean Corpuscular Volume: 103.34 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+iron deficiency anemia,iron deficiency anemia,"1. Hemoglobin: 7.28 g/dL - Indicates anemia.
+2. Mean Corpuscular Volume (MCV): 75.32 fL - Less than 80 fL, indicating microcytic anemia.
+3. Ferritin: 56.07 ng/mL - Between 30 ng/mL and 100 ng/mL.
+4. Total Iron Binding Capacity (TIBC): 498.35 mcg/dL - Greater than 450 mcg/dL.
+
+Final diagnosis: Iron deficiency anemia."
+unspecified anemia,unspecified anemia,"Hemoglobin: 9.29 g/dL  
+Mean Corpuscular Volume: 102.65 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+aplastic anemia,aplastic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1) Hemoglobin value is 10.07 g/dL, which is less than 13 g/dL.
+2) Since the hemoglobin value is less than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3) The mean corpuscular volume is 88.91 fL, which falls between 80fL and 100fL.
+4) With MCV between 80fL and 100fL, we look at the reticulocyte count.
+5) The reticulocyte count is 0.87%, which is less than or equal to 2%.
+
+Final diagnosis: Aplastic anemia."
+inconclusive diagnosis,inconclusive diagnosis,"To diagnose this patient, I followed these steps based on the provided laboratory results and rules:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 8.13 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 77.76 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin level is 47.63 ng/mL, which is between 30 ng/mL and 100 ng/mL. Since it is not less than 30 ng/mL or greater than 100 ng/mL, we proceed to check the total iron-binding capacity (TIBC), but the TIBC value is not provided in the results.
+
+Given that the TIBC results are unavailable and necessary for further classification under these conditions, the diagnosis is:
+
+Inconclusive diagnosis."
+aplastic anemia,aplastic anemia,"Hemoglobin: 7.66 g/dL  
+Mean Corpuscular Volume: 80.29 fL  
+Reticulocyte Count: 0.88 %
+
+Diagnosis: Aplastic anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,Vitamin B12/Folate deficiency anemia
+anemia of chronic disease,anemia of chronic disease,"Lab tests considered: Hemoglobin, Mean Corpuscular Volume, Ferritin
+
+Final diagnosis: Anemia of chronic disease."
+aplastic anemia,aplastic anemia,"Hemoglobin: 8.68 g/dL  
+Mean Corpuscular Volume: 86.86 fL  
+Reticulocyte Count: 0.18 %
+
+Diagnosis: Aplastic anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 11.74 g/dL  
+Gender: Female  
+Mean Corpuscular Volume: 94.94 fL  
+Reticulocyte Count: 0.72 %
+
+Diagnosis: Aplastic anemia"
+no anemia,no anemia,No anemia
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 12.3 g/dL.
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I proceed to check the gender of the patient.
+
+2. **Gender**: The patient is male.
+   - Since the patient is male with a hemoglobin value between 12 g/dL and 13 g/dL, I need to further investigate.
+
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 79.29 fL.
+   - The MCV is less than 80 fL, so I proceed to check the ferritin value.
+
+4. **Ferritin**: The ferritin value is 99.57 ng/mL.
+   - Since the ferritin value is between 30 ng/mL and 100 ng/mL, I need to check the total iron binding capacity (TIBC).
+
+5. **Total Iron Binding Capacity (TIBC)**: The TIBC is 512.24 mcg/dL.
+   - Since the TIBC is greater than 450 mcg/dL, the diagnosis is Iron deficiency anemia.
+
+**Final Diagnosis**: Iron deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 10.35 g/dL  
+Mean Corpuscular Volume: 104.17 fL  
+Segmented Neutrophils: 1.7  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.88 g/dL  
+Mean Corpuscular Volume: 101.46 fL  
+Segmented Neutrophils: 3.59  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 7.57 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 102.7 fL, which is greater than 100fL.
+3. Segmented neutrophils value is 1.16, which is greater than 0.
+
+Therefore, the diagnosis is Vitamin B12/Folate deficiency anemia."
+iron deficiency anemia,iron deficiency anemia,Iron deficiency anemia
+anemia of chronic disease,anemia of chronic disease,"1. Hemoglobin value: 9.12 g/dL (less than 13 g/dL)
+2. Mean Corpuscular Volume (MCV): 77.29 fL (less than 80 fL)
+3. Ferritin value: 340.18 ng/mL (greater than 100 ng/mL)
+
+Final diagnosis: Anemia of chronic disease."
+aplastic anemia,aplastic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 6.44 g/dL, which is less than 13 g/dL.
+2. Since the hemoglobin value is less than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3. The mean corpuscular volume is 81.41 fL, which falls between 80fL and 100fL.
+4. With MCV between 80fL and 100fL, we look at the reticulocyte count.
+5. The reticulocyte count is 0.75%, which is less than or equal to 2%.
+
+Final diagnosis: Aplastic anemia."
+iron deficiency anemia,iron deficiency anemia,"Hemoglobin: 9.87 g/dL  
+Mean Corpuscular Volume: 78.0 fL  
+Ferritin: 10.19 ng/mL  
+
+Diagnosis: Iron deficiency anemia"
+unspecified anemia,unspecified anemia,"Hemoglobin: 11.11 g/dL  
+Mean Corpuscular Volume: 101.72 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 8.34 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 100.57 fL, which is greater than 100 fL.
+3. Segmented neutrophils value is 5.91, which is greater than 0.
+
+The diagnosis is Vitamin B12/Folate deficiency anemia."
+aplastic anemia,aplastic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 12.06 g/dL
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I considered the gender of the patient.
+
+2. Gender: Male
+   - For a male patient with a hemoglobin value between 12 g/dL and 13 g/dL, I proceeded to check the mean corpuscular volume (MCV).
+
+3. Mean Corpuscular Volume (MCV): 96.81 fL
+   - The MCV is between 80 fL and 100 fL, so I checked the reticulocyte count.
+
+4. Reticulocyte Count: 0.75%
+   - Since the reticulocyte count is less than or equal to 2%, the diagnosis is Aplastic anemia.
+
+Final Diagnosis: Aplastic anemia"
+no anemia,no anemia,No anemia
+aplastic anemia,aplastic anemia,"Hemoglobin: 9.58 g/dL  
+Mean Corpuscular Volume: 97.78 fL  
+Reticulocyte Count: 0.75%  
+
+Diagnosis: Aplastic anemia"
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 6.74 g/dL  
+Mean Corpuscular Volume: 103.56 fL  
+Segmented Neutrophils: 6.75  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 10.27 g/dL, which is less than 13 g/dL.
+2. The mean corpuscular volume (MCV) is 100.2 fL, which is greater than 100fL.
+3. The segmented neutrophils value is 5.28, which is greater than 0.
+
+Therefore, the diagnosis is Vitamin B12/Folate deficiency anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 12.79 g/dL  
+Gender: Male  
+Mean Corpuscular Volume: 81.98 fL  
+Reticulocyte Count: 2.75%
+
+Following the diagnostic pathway:
+1. Hemoglobin value is 12.79 g/dL, which is greater than 12 g/dL but less than 13 g/dL.
+2. Since the patient is male, we proceed to check the mean corpuscular volume (MCV).
+3. MCV is 81.98 fL, which is between 80fL and 100fL.
+4. We then check the reticulocyte count, which is 2.75%.
+
+Since the reticulocyte count is greater than 2%, the diagnosis is Hemolytic anemia."
+no anemia,no anemia,"Hemoglobin
+
+No anemia"
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 8.38 g/dL  
+Mean Corpuscular Volume: 84.36 fL  
+Reticulocyte Count: 3.88 %
+
+Based on the provided lab results:
+1. The hemoglobin value is 8.38 g/dL, which is less than 13 g/dL.
+2. The mean corpuscular volume is 84.36 fL, which falls between 80fL and 100fL.
+3. The reticulocyte count is 3.88%, which is greater than 2%.
+
+Final diagnosis: Hemolytic anemia."
+unspecified anemia,vitamin b12/folate deficiency anemia,Vitamin B12/Folate deficiency anemia
+no anemia,no anemia,No anemia
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 7.28 g/dL  
+Mean Corpuscular Volume: 102.67 fL  
+Segmented Neutrophils: 2.98  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+iron deficiency anemia,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.69 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 79.82 fL, which is less than 80 fL. This directs us to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin level is 13.02 ng/mL, which is less than 30 ng/mL. This suggests iron deficiency anemia, but we need to confirm with the total iron binding capacity (TIBC).
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 168.37 mcg/dL, which is less than 450 mcg/dL.
+
+Given that the ferritin is low and the TIBC is also low, the diagnosis is **Anemia of chronic disease**."
+aplastic anemia,aplastic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 6.18 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 95.34 fL. Since this value is between 80fL and 100fL, we proceed to check the reticulocyte count.
+
+3. **Reticulocyte Count**: The reticulocyte count is 1.21%. Since this value is less than or equal to 2%, the diagnosis is Aplastic anemia.
+
+The final diagnosis for this patient is **Aplastic anemia**."
+anemia of chronic disease,anemia of chronic disease,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 8.34 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 77.53 fL, which is less than 80 fL. This suggests that we should consider the ferritin value next.
+
+3. **Ferritin Value**: The ferritin value is 326.96 ng/mL. Since this value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease.
+
+The final diagnosis is Anemia of chronic disease."
+iron deficiency anemia,iron deficiency anemia,"Hemoglobin: 8.04 g/dL  
+Mean Corpuscular Volume: 76.51 fL  
+Ferritin: 54.85 ng/mL  
+Total Iron Binding Capacity: 507.24 mcg/dL  
+
+Final Diagnosis: Iron deficiency anemia"
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 7.17 g/dL  
+Mean Corpuscular Volume: 76.72 fL  
+Ferritin: 41.93 ng/mL  
+Total Iron Binding Capacity: 318.85 mcg/dL  
+
+Diagnosis: Anemia of chronic disease."
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 7.74 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 76.3 fL, which is less than 80 fL. This directs me to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The ferritin level is 30.44 ng/mL. Since this value is between 30 ng/mL and 100 ng/mL, I need to check the total iron binding capacity (TIBC).
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 453.48 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results, the final diagnosis is **Iron deficiency anemia**."
+no anemia,no anemia,No anemia
+inconclusive diagnosis,iron deficiency anemia,"To diagnose the type of anemia in this patient, we follow the outlined steps:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 9.54 g/dL, which is less than 13 g/dL. Therefore, we proceed to the next step.
+
+2. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 76.14 fL, which is less than 80 fL. This leads us to further investigate by checking the ferritin value.
+
+3. **Ferritin Value**: The ferritin value is not provided in the list of lab results. Therefore, we cannot proceed with this pathway.
+
+4. **Total Iron Binding Capacity (TIBC)**: Since the ferritin value is not available, we look at the TIBC, which is 510.07 mcg/dL. This value is greater than 450 mcg/dL.
+
+Given the available information and following the diagnostic pathway, the final diagnosis for this patient is **Iron deficiency anemia**."
+no anemia,no anemia,No anemia
+inconclusive diagnosis,iron deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.77 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 75.39 fL, which is less than 80 fL. This directs us to further investigate the type of anemia based on ferritin levels and possibly TIBC (Total Iron Binding Capacity).
+
+3. **Ferritin Value**: The ferritin value is not provided in the results. Therefore, we proceed to check the TIBC as per the protocol for MCV less than 80 fL.
+
+4. **Total Iron Binding Capacity (TIBC)**: The TIBC is 462.09 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results and following the diagnostic rules:
+- Hemoglobin less than 13 g/dL suggests anemia.
+- MCV less than 80 fL suggests we consider iron-related issues.
+- TIBC greater than 450 mcg/dL, in the absence of a ferritin value, leads to the diagnosis of Iron deficiency anemia.
+
+**Diagnosis: Iron deficiency anemia**"
+unspecified anemia,unspecified anemia,"Hemoglobin: 7.37 g/dL  
+Mean Corpuscular Volume: 103.89 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 12.28 g/dL. Since this value is greater than 12 g/dL but less than 13 g/dL, I proceed to check the gender of the patient.
+2. Gender: Male. Since the patient is male and the hemoglobin value is between 12 g/dL and 13 g/dL, I need to further investigate.
+3. Mean Corpuscular Volume (MCV): 81.11 fL. This value is between 80fL and 100fL.
+4. Reticulocyte count: 5.6%. Since the MCV is between 80fL and 100fL, I check the reticulocyte count.
+
+Given that the reticulocyte count is greater than 2%, the final diagnosis is Hemolytic anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 12.75 g/dL  
+Gender: Male
+
+1. Hemoglobin value is greater than 12 g/dL but less than 13 g/dL.
+2. Patient is male, so proceed to check mean corpuscular volume (MCV).
+
+Mean Corpuscular Volume: 93.08 fL
+
+3. MCV is between 80fL and 100fL.
+4. Look for the reticulocyte count.
+
+Reticulocyte Count: 5.74 %
+
+5. Reticulocyte count is greater than 2%.
+
+Final Diagnosis: Hemolytic anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.84 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 104.83 fL, which is greater than 100 fL. This directs us to further investigate based on the high MCV value.
+
+3. **Segmented Neutrophils**: The segmented neutrophils value is 1.12, which is greater than 0.
+
+Based on these findings, the final diagnosis for this patient is **Vitamin B12/Folate deficiency anemia**."
+no anemia,no anemia,"Hemoglobin: 14.13 g/dL
+
+Based on the hemoglobin value of 14.13 g/dL, which is greater than 13 g/dL, the diagnosis is No anemia."
+inconclusive diagnosis,inconclusive diagnosis,"1. Hemoglobin: 7.16 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 93.48 fL - falls between 80fL and 100fL.
+3. Reticulocyte Count: Not provided, but since no other relevant test is mentioned, the diagnosis is Inconclusive diagnosis."
+unspecified anemia,unspecified anemia,"To determine the final diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The hemoglobin value is 7.53 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 101.27 fL, which is greater than 100fL. This directs us to consider the value of segmented neutrophils.
+
+3. **Segmented Neutrophils**: The segmented neutrophils value is 0.0. According to the rules, if the segmented neutrophils value is equal to 0, the diagnosis is Unspecified anemia.
+
+Therefore, the final diagnosis for this patient is **Unspecified anemia**."
+anemia of chronic disease,anemia of chronic disease,"Based on the provided laboratory results and the patient's gender, here is the pathway for the final diagnosis:
+
+1. Hemoglobin value: 8.58 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 75.37 fL, which is less than 80 fL.
+3. Ferritin value: 336.28 ng/mL.
+
+Since the MCV is less than 80 fL and the ferritin value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease."
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 10.6 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 76.79 fL, which is less than 80 fL.
+3. Ferritin value: 216.28 ng/mL.
+
+Since the MCV is less than 80 fL, and the ferritin value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 8.66 g/dL  
+Mean Corpuscular Volume: 98.51 fL  
+Reticulocyte Count: 5.59 %
+
+Diagnosis: Hemolytic anemia"
+inconclusive diagnosis,inconclusive diagnosis,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 7.03 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 75.24 fL, which is less than 80 fL.
+
+Since the MCV is less than 80 fL, I need to check the ferritin value, but it is not provided in the results. Therefore, the diagnosis is Inconclusive diagnosis."
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 10.31 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 76.3 fL, which is less than 80 fL.
+3. Ferritin value: 202.66 ng/mL.
+
+Since the MCV is less than 80 fL, and the ferritin value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic pathway:
+
+1. Hemoglobin value is 6.32 g/dL, which is less than 13 g/dL.
+2. The patient is male, and since the hemoglobin is less than 13 g/dL, we proceed to the next step.
+3. The mean corpuscular volume (MCV) is 103.19 fL.
+4. Since the MCV is greater than 100fL, we look at the segmented neutrophils value.
+5. The segmented neutrophils value is 3.68, which is greater than 0.
+
+Final diagnosis: Vitamin B12/Folate deficiency anemia."
+no anemia,no anemia,No anemia
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 11.74 g/dL  
+Mean Corpuscular Volume: 77.76 fL  
+Ferritin: 99.44 ng/mL  
+Total Iron Binding Capacity: 364.05 mcg/dL  
+
+Final Diagnosis: Anemia of chronic disease."
+anemia of chronic disease,iron deficiency anemia,"Hemoglobin: 10.47 g/dL  
+Mean Corpuscular Volume: 77.9 fL  
+Ferritin: 91.69 ng/mL  
+Total Iron Binding Capacity: 431.27 mcg/dL  
+
+Diagnosis: Iron deficiency anemia"
+iron deficiency anemia,iron deficiency anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.03 g/dL, which is less than 13 g/dL. This indicates that the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 78.37 fL, which is less than 80 fL. This directs us to further investigate the type of anemia based on ferritin levels and possibly TIBC.
+
+3. **Ferritin**: The patient's ferritin level is 30.23 ng/mL. Since this value is between 30 ng/mL and 100 ng/mL, we need to check the TIBC to further narrow down the type of anemia.
+
+4. **Total Iron Binding Capacity (TIBC)**: The patient's TIBC is 476.04 mcg/dL, which is greater than 450 mcg/dL.
+
+Based on these results, the final diagnosis is **Iron deficiency anemia**."
+unspecified anemia,unspecified anemia,"Hemoglobin: 9.72 g/dL  
+Mean Corpuscular Volume: 100.28 fL  
+Segmented Neutrophils: 0.0  
+
+Diagnosis: Unspecified anemia"
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 12.44 g/dL.
+2. **Gender Check**: The patient is male.
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, and the patient is male, we proceed to the next step.
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 82.21 fL.
+   - This value is between 80fL and 100fL, so we proceed to check the reticulocyte count.
+4. **Reticulocyte Count**: The reticulocyte count is 5.05%.
+   - Since the reticulocyte count is greater than 2%, the diagnosis is Hemolytic anemia.
+
+**Final Diagnosis**: Hemolytic anemia"
+aplastic anemia,aplastic anemia,"1. Hemoglobin value: 7.8 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 81.33 fL - falls between 80fL and 100fL.
+3. Reticulocyte count: 1.52% - less or equal to 2%.
+
+Final diagnosis: Aplastic anemia."
+aplastic anemia,aplastic anemia,"Hemoglobin: 9.73 g/dL  
+Mean Corpuscular Volume: 83.13 fL  
+Reticulocyte Count: 0.88 %
+
+Final Diagnosis: Aplastic anemia"
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 11.26 g/dL  
+Gender: Female  
+Mean Corpuscular Volume: 100.56 fL  
+Segmented Neutrophils: 0.74  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 10.44 g/dL, which is less than 13 g/dL.
+2. Mean corpuscular volume (MCV) is 100.39 fL, which is greater than 100 fL.
+3. Segmented neutrophils value is 5.18, which is greater than 0.
+
+Final diagnosis: Vitamin B12/Folate deficiency anemia."
+aplastic anemia,aplastic anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 9.27 g/dL, which is less than 13 g/dL. This indicates the patient may have anemia.
+
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 82.86 fL, which falls between 80fL and 100fL.
+
+3. **Reticulocyte Count**: The reticulocyte count is 0.84%, which is less than or equal to 2%.
+
+Based on these findings, the final diagnosis is **Aplastic anemia**."
+hemolytic anemia,hemolytic anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and rules:
+
+1. Hemoglobin value: 7.94 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 99.52 fL, which is less than 100fL but greater than 80fL.
+3. Reticulocyte count: 4.27%, which is greater than 2%.
+
+Based on these findings, the final diagnosis is Hemolytic anemia."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 12.02 g/dL  
+Gender: Male  
+Mean Corpuscular Volume: 104.35 fL  
+Segmented Neutrophils: 2.04  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+anemia of chronic disease,iron deficiency anemia,"Hemoglobin: 9.13 g/dL  
+Mean Corpuscular Volume: 76.04 fL  
+Ferritin: 39.22 ng/mL  
+Total Iron Binding Capacity: 330.08 mcg/dL  
+
+Diagnosis: Iron deficiency anemia"
+inconclusive diagnosis,anemia of chronic disease,"1. Hemoglobin: 7.31 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 79.41 fL - less than 80fL, indicating potential microcytic anemia.
+3. Ferritin: 64.56 ng/mL - between 30ng/ml and 100ng/ml.
+4. Total Iron Binding Capacity (TIBC) - not provided, but not needed as ferritin value is conclusive for this range.
+
+Final diagnosis: Anemia of chronic disease."
+vitamin b12/folate deficiency anemia,vitamin b12/folate deficiency anemia,"Hemoglobin: 11.42 g/dL  
+Mean Corpuscular Volume: 104.3 fL  
+Segmented Neutrophils: 0.85  
+
+Diagnosis: Vitamin B12/Folate deficiency anemia"
+aplastic anemia,aplastic anemia,"Hemoglobin: 7.92 g/dL  
+Mean Corpuscular Volume: 88.52 fL  
+Reticulocyte Count: 1.59%
+
+Diagnosis pathway:
+1. Hemoglobin value is less than 13 g/dL.
+2. Mean Corpuscular Volume is between 80fL and 100fL.
+3. Reticulocyte count is less or equal to 2%.
+
+Final diagnosis: Aplastic anemia."
+iron deficiency anemia,iron deficiency anemia,"Hemoglobin: 9.08 g/dL  
+Mean Corpuscular Volume: 75.95 fL  
+Ferritin: 65.94 ng/mL  
+Total Iron Binding Capacity: 503.65 mcg/dL  
+
+Final Diagnosis: Iron deficiency anemia"
+inconclusive diagnosis,inconclusive diagnosis,"Based on the provided information and the diagnostic rules:
+
+1. Hemoglobin value is 7.62 g/dL, which is less than 13 g/dL.
+2. The mean corpuscular volume (MCV) is 88.35 fL, which falls between 80fL and 100fL (case d).
+3. Since the MCV is between 80fL and 100fL, we need to look at the reticulocyte count to proceed with the diagnosis.
+
+However, the reticulocyte count is not provided in the information given. Therefore, according to the rules:
+
+- If the reticulocyte count results are unavailable, the diagnosis is Inconclusive diagnosis.
+
+Final diagnosis: Inconclusive diagnosis."
+unspecified anemia,unspecified anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 9.4 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 101.41 fL, which is greater than 100fL.
+3. Segmented Neutrophils: 0.0.
+
+Since the MCV is greater than 100fL and the segmented neutrophils value is equal to 0, the diagnosis is:
+
+Unspecified anemia."
+hemolytic anemia,hemolytic anemia,Hemolytic anemia
+no anemia,no anemia,No anemia
+anemia of chronic disease,anemia of chronic disease,"Hemoglobin: 7.27 g/dL
+Mean Corpuscular Volume: 76.38 fL
+Ferritin: 477.91 ng/mL
+
+Diagnosis: Anemia of chronic disease."
+hemolytic anemia,hemolytic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 8.2 g/dL, which is less than 13 g/dL.
+2. The mean corpuscular volume (MCV) is 96.28 fL, which is between 80fL and 100fL.
+3. Since the MCV is between 80fL and 100fL, we look at the reticulocyte count.
+4. The reticulocyte count is 5.87%, which is greater than 2%.
+
+Final diagnosis: Hemolytic anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 6.82 g/dL  
+Mean Corpuscular Volume: 95.85 fL  
+Reticulocyte Count: 3.41%
+
+Final Diagnosis: Hemolytic anemia"
+anemia of chronic disease,anemia of chronic disease,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and rules:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 10.87 g/dL. Since this value is less than 13 g/dL, I proceed to the next step.
+
+2. **Mean Corpuscular Volume (MCV)**: The patient's MCV is 75.09 fL, which is less than 80 fL. This directs me to further investigate using the ferritin value.
+
+3. **Ferritin Value**: The patient's ferritin level is 290.96 ng/mL. Since this value is greater than 100 ng/mL, the diagnosis is Anemia of chronic disease.
+
+The final diagnosis is **Anemia of chronic disease**."
+no anemia,no anemia,"Based on the provided laboratory results and the gender of the patient:
+
+1. Hemoglobin value: 13.66 g/dL
+
+According to the rules:
+- If the hemoglobin value is greater than 13 g/dL, the diagnosis is No anemia.
+
+Final diagnosis: No anemia."
+aplastic anemia,aplastic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 7.18 g/dL, which is less than 13 g/dL.
+2. Since the hemoglobin value is less than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3. The mean corpuscular volume is 97.27 fL, which falls between 80fL and 100fL.
+4. With MCV between 80fL and 100fL, we look at the reticulocyte count.
+5. The reticulocyte count is 1.41%, which is less than or equal to 2%.
+
+Final diagnosis: Aplastic anemia."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 6.0 g/dL  
+Mean Corpuscular Volume: 96.18 fL  
+Reticulocyte Count: 3.13%
+
+Hemolytic anemia"
+unspecified anemia,unspecified anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 11.19 g/dL, which is less than 13 g/dL.
+2. Mean Corpuscular Volume (MCV): 101.3 fL, which is greater than 100fL.
+3. Segmented Neutrophils: 0.0.
+
+Since the MCV is greater than 100fL and the segmented neutrophils value is 0, the diagnosis is Unspecified anemia."
+hemolytic anemia,hemolytic anemia,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 12.09 g/dL.
+2. **Gender Consideration**: The patient is male, and since the hemoglobin is greater than 12 g/dL but less than 13 g/dL, I proceed to the next step.
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 93.71 fL, which falls between 80fL and 100fL.
+4. **Reticulocyte Count**: The reticulocyte count is 4.54%, which is greater than 2%.
+
+Based on these results, the final diagnosis is **Hemolytic anemia**."
+inconclusive diagnosis,iron deficiency anemia,"1. Hemoglobin: 9.04 g/dL - indicates anemia.
+2. Mean Corpuscular Volume (MCV): 76.85 fL - less than 80fL, indicating microcytic anemia.
+3. Ferritin: Not provided, so we cannot directly assess iron stores.
+4. Total Iron Binding Capacity (TIBC): 500.3 mcg/dL - greater than 450mcg/dL.
+
+Final diagnosis: Iron deficiency anemia."
+aplastic anemia,aplastic anemia,Aplastic anemia
+no anemia,no anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1) The hemoglobin value is 13.49 g/dL.
+
+According to the rules, if the hemoglobin value is greater than 13 g/dL, the diagnosis is No anemia.
+
+Final diagnosis: No anemia."
+hemolytic anemia,hemolytic anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1. Hemoglobin value is 6.07 g/dL, which is less than 13 g/dL.
+2. Since the hemoglobin value is less than 13 g/dL, we proceed to check the mean corpuscular volume (MCV).
+3. The mean corpuscular volume is 96.44 fL, which falls between 80fL and 100fL.
+4. Given that the MCV is between 80fL and 100fL, we look at the reticulocyte count.
+5. The reticulocyte count is 2.98%, which is greater than 2%.
+
+The final diagnosis is Hemolytic anemia."
+hemolytic anemia,hemolytic anemia,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 12.8 g/dL.
+2. **Gender Consideration**: The patient is male, and since the hemoglobin is greater than 12 g/dL but less than 13 g/dL, I proceed to the next step.
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 83.09 fL, which falls between 80fL and 100fL.
+4. **Reticulocyte Count**: The reticulocyte count is 3.44%, which is greater than 2%.
+
+Based on these findings, the final diagnosis is **Hemolytic anemia**."
+no anemia,no anemia,No anemia
+no anemia,no anemia,"Based on the provided laboratory results and the diagnostic rules:
+
+1) The hemoglobin value is 13.75 g/dL.
+
+Since the hemoglobin value is greater than 13 g/dL, the diagnosis is No anemia."
+aplastic anemia,aplastic anemia,"To determine the final diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 11.53 g/dL.
+2. **Gender**: The patient is male.
+3. **Mean Corpuscular Volume (MCV)**: The MCV is 99.3 fL.
+
+Since the hemoglobin value is less than 13 g/dL, I proceeded to check the MCV. The MCV falls between 80fL and 100fL, which leads me to consider case d) in the diagnostic rules.
+
+4. **Reticulocyte Count**: The reticulocyte count is 0.75%.
+
+Given that the reticulocyte count is less than or equal to 2%, the diagnosis for this patient, according to the rules, is:
+
+**Aplastic anemia**."
+anemia of chronic disease,anemia of chronic disease,"To determine the diagnosis for this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. **Hemoglobin Value**: The patient's hemoglobin is 6.35 g/dL, which is below 13 g/dL.
+2. **Mean Corpuscular Volume (MCV)**: The MCV is 78.44 fL, which is less than 80 fL.
+3. **Ferritin Value**: The ferritin level is 278.87 ng/mL.
+
+Since the MCV is less than 80 fL, and the ferritin is greater than 100 ng/mL, the diagnosis is **Anemia of chronic disease**."
+hemolytic anemia,hemolytic anemia,"Hemoglobin: 10.51 g/dL  
+Mean Corpuscular Volume: 88.88 fL  
+Reticulocyte Count: 5.38%
+
+Diagnosis: Hemolytic anemia"
+anemia of chronic disease,anemia of chronic disease,"To diagnose this patient, I followed these steps based on the provided laboratory results and gender:
+
+1. Hemoglobin value: 12.01 g/dL
+   - Since the hemoglobin value is greater than 12 g/dL but less than 13 g/dL, I next consider the gender of the patient.
+
+2. Gender: Male
+   - For a male patient with a hemoglobin value between 12 g/dL and 13 g/dL, I proceed to check the mean corpuscular volume (MCV).
+
+3. Mean Corpuscular Volume (MCV): 75.27 fL
+   - The MCV is less than 80 fL, indicating a potential microcytic anemia. I then check the ferritin level to further classify the type of anemia.
+
+4. Ferritin: 259.98 ng/mL
+   - The ferritin value is greater than 100 ng/mL, which leads to the diagnosis of Anemia of chronic disease.
+
+Final diagnosis: Anemia of chronic disease"
+aplastic anemia,aplastic anemia,"Hemoglobin: 10.78 g/dL  
+Mean Corpuscular Volume: 95.35 fL  
+Reticulocyte Count: 0.41 %
+
+Diagnosis: Aplastic anemia"
