@@ -1,3 +1,4 @@
+from scripts import constants
 import constants
 import pandas as pd
 import openai
@@ -13,7 +14,7 @@ import re
 import os
 
 
-client = OpenAI(api_key=os.environ.get("PERSONAL_HEKA_KEY", "sk-proj-wni3iiln0A5Gu3bnhxL3T3BlbkFJnGO3JGQEnxr2GcnGd6Lp"))
+client = OpenAI(api_key=os.environ.get("PERSONAL_HEKA_KEY", "..."))
 
 def get_patient_information(patient_idx):
     """
