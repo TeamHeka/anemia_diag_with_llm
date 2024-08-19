@@ -1,3 +1,4 @@
+# Prompting Large Language Models for Supporting the Differential Diagnosis of Anemia
 Clinical diagnosis is theoretically reached by clinicians by following a sequence of steps, such as laboratory exams, observations, or imaging. Diagnosis guidelines are documents authored by expert organizations 
 that guide clinicians through these sequences of steps to reach a correct diagnosis. These guidelines are of various quality but have the advantage of following medical reasoning and representing pieces of medical 
 knowledge. However, they have two main drawbacks: they are designed to cover the majority of the population, which means they often fail to address patients with uncommon conditions; their update is a long and 
